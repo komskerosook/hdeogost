@@ -1,5 +1,5 @@
 { 
-  "name": "githusmerm",
+  "name": "komskerosook",
   "description": "Deploy Gost to Heroku.",
   "keywords": ["Gost"],
   "env": {
@@ -13,6 +13,6 @@
      }
   },
   "stack": "container",
-  "website": "https://github.com/githusmerm/hdeogost",
-  "repository": "https://github.com/githusmerm/hdeogost"
+  "website": "https://github.com/komskerosook/hdeogost",
+  "repository": "https://github.com/komskerosook/hdeogost"
  }
