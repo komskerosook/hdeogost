@@ -1,5 +1,5 @@
 { 
-  "name": "Gost",
+  "name": "githusmerm",
   "description": "Deploy Gost to Heroku.",
   "keywords": ["Gost"],
   "env": {
@@ -9,10 +9,10 @@
      },
      "PASSWORD": {
        "description": "A password used to encrypt transfer.",
-       "value": "ss123456"
+       "value": "hsueeo503-djri3020e-moe135op54"
      }
   },
   "stack": "container",
-  "website": "https://github.com/xiaokaixuan/gost-heroku",
-  "repository": "https://github.com/xiaokaixuan/gost-heroku"
+  "website": "https://github.com/githusmerm/hdeogost",
+  "repository": "https://github.com/githusmerm/hdeogost"
  }
